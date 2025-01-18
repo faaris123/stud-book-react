@@ -1,1 +1,1 @@
-# badger-book-react
+# stud-book-react
